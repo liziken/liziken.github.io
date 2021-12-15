@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T13:57:05.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" version="14.2.7" etag="vZLdyyIvKSLbtMBaPGrs" type="github"><diagram id="AlP86_rGll_gxDinzhBH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-15T14:34:01.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="f_MZOYivPbpiYHkruouJ" version="14.2.7" type="github">
+  <diagram id="AlP86_rGll_gxDinzhBH" name="Page-1">
+    <mxGraphModel dx="1697" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-1" target="GrUYqAsf7HT3I4J-Rr9l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-1" target="GrUYqAsf7HT3I4J-Rr9l-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="310" />
+              <mxPoint x="880" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-1" value="Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-2" target="GrUYqAsf7HT3I4J-Rr9l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-2" value="Localization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-3" target="GrUYqAsf7HT3I4J-Rr9l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-3" value="World Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-4" target="GrUYqAsf7HT3I4J-Rr9l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-4" value="Sign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrUYqAsf7HT3I4J-Rr9l-5" target="GrUYqAsf7HT3I4J-Rr9l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-5" value="Fusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-6" value="PnC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-36" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="895" height="480" as="geometry">
+            <mxRectangle x="70" y="230" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-37" value="" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-36">
+          <mxGeometry x="20" width="175" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-45" value="地图给出电子限速牌3D位置，以及每个牌子对应的车道" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;horizontal=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-37">
+          <mxGeometry x="10" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-40" value="" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-36">
+          <mxGeometry x="195" width="175" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-46" value="根据地图3D绝对位置和定位信息转化为相对位置，并将相对位置输出" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-40">
+          <mxGeometry x="11" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-41" value="" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-36">
+          <mxGeometry x="370" width="175" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-47" value="把电子限速牌相对3D位置投影至2D，将检测结果与之匹配，进而输出当前帧每个车道的限速值检测结果" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-41">
+          <mxGeometry x="13" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-43" value="" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-36">
+          <mxGeometry x="545" width="175" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-48" value="融合历史的单帧检测结果，输出每条车道的限速值" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-43">
+          <mxGeometry x="14" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-42" value="" style="swimlane;html=1;startSize=20;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-36">
+          <mxGeometry x="720" width="175" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GrUYqAsf7HT3I4J-Rr9l-49" value="获取时序限速值检测结果，结合地图获取当前车道的限速值" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="GrUYqAsf7HT3I4J-Rr9l-42">
+          <mxGeometry x="15" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
